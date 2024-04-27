@@ -88,9 +88,9 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT
-![image](https://github.com/AtchayaSundaramoorthy/graphicsinandroid/assets/119393516/53dfc536-8880-4c93-95ab-ec6be0d8fd37)
+![image](https://github.com/AtchayaSundaramoorthy/graphicsinandroid/assets/119393516/f6f7c467-988d-4cfa-ad6d-03419ad63aba)
 
-![image](https://github.com/AtchayaSundaramoorthy/graphicsinandroid/assets/119393516/10e8b47d-4690-411a-98a3-955bc654de6c)
+![image](https://github.com/AtchayaSundaramoorthy/graphicsinandroid/assets/119393516/91d4ac09-c8ba-4e51-acf5-d4a300757124)
 
 
 ## RESULT
